@@ -19,7 +19,7 @@ It also provides a simple HTTP API for accessing the data.
 ### From Source
 1. Clone the repository
 ```
-git clone https://Seshat.git
+git clone https://github.com/Mohamed-Eldakak/SESHAT.git
 cd seshat
 ```
 2. Build the binary
